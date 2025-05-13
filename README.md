@@ -26,7 +26,7 @@ pip install pyautogui pandas
 2. Execute o script:
    Para rodar o script, execute o seguinte comando no terminal ou prompt de comando:
 ```bash
- python automacao_cadastro.py
+ python projeto_1.py
  ```
 
 ⚠️ Certifique-se de que o navegador está visível e que a resolução da tela está compatível com os cliques automatizados.
