@@ -1,0 +1,18 @@
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar arquivos CSV gerados (caso você não queira subir)
+*.csv
+
+# Ignorar logs
+*.log
+
+# Ignorar ambientes virtuais
+venv/
+.env/
