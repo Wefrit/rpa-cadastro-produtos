@@ -37,5 +37,5 @@ Os dados devem estar em um arquivo `produtos.csv`, com colunas como:
 
 ---
 
-Feito com 💻 por Nathan Lopes
+Feito com python por Nathan Lopes
 
