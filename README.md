@@ -19,8 +19,15 @@ Este projeto é uma automação feita com Python que preenche automaticamente um
 ## ▶️ Como usar
 
 1. Instale as dependências:
+  ```bash
+pip install pyautogui pandas
+```
 
 2. Execute o script:
+   Para rodar o script, execute o seguinte comando no terminal ou prompt de comando:
+```bash
+ python automacao_cadastro.py
+ ```
 
 ⚠️ Certifique-se de que o navegador está visível e que a resolução da tela está compatível com os cliques automatizados.
 
@@ -37,5 +44,5 @@ Os dados devem estar em um arquivo `produtos.csv`, com colunas como:
 
 ---
 
-Feito com python por Nathan Lopes
+Feito com Python por Nathan Lopes
 
