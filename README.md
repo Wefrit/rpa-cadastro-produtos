@@ -11,7 +11,7 @@ Este projeto é uma automação feita com Python que preenche automaticamente um
 
 ## 📁 Requisitos
 
-- Python 3.x
+- Python 3.13
 - Bibliotecas:
   - `pyautogui`
   - `pandas`
