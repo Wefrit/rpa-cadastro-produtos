@@ -1,6 +1,7 @@
 # Automação de Cadastro de Produtos com PyAutoGUI 🖱️📋
 
 Este projeto é uma automação feita com Python que preenche automaticamente um formulário de cadastro de produtos no navegador, usando a biblioteca `pyautogui`.
+Projeto baseado em curso da hashtag treinamentos.
 
 ## 💡 Funcionalidades
 
